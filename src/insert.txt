@@ -1,0 +1,10 @@
+decreasing
+bubble
+10 
+2 3 6 7 523 324 3 4 52 74
+
+B
+
+Beginning Time = 0[µs]
+523 324 74 52 7 6 4 3 3 2 
+End time = 0[ns]
